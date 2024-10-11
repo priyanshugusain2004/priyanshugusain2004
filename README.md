@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanshugusain
+- 👋 Hi, I’m @priyansh
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning  new skils 
 - 💞️ I’m looking to collaborate on projects
