@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @priyansh
-- 👀 I’m interested in game development
+- 👋 Hi, I’m @priyanshu
 - 🌱 I’m currently learning  new skils 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 843307249
