@@ -1,6 +1,6 @@
 # Priyanshu Gusain
 
-+91-8433067249  |  priyanshgusain1@gmail.com  |  [Portfolio](#)  |  [GitHub](https://github.com/priyanshugusain2004)  |  [LinkedIn](#)
++91-8433067249  |  priyanshgusain1@gmail.com  |  [Portfolio](working on it!)  |  [GitHub](https://github.com/priyanshugusain2004)  |  [LinkedIn](https://www.linkedin.com/feed/)
 
 ---
 
@@ -29,7 +29,7 @@ Expected Graduation: 2026
 
 ## CERTIFICATIONS
 
-- (Add any relevant certifications here, e.g., “Certified Python Developer – Coursera, 2024”)
+working on it.......................
 
 ---
 
@@ -49,16 +49,15 @@ May 2025 – Present
 ### PBL  
 _TypeScript_  
 [GitHub Repo](https://github.com/priyanshugusain2004/PBL)  
-Large-scale TypeScript project with focus on (add your focus: e.g., web application, API, etc.).
+[LINK TO MY SITE:](https://priyanshugusain2004.github.io/PBL/)
+
 
 ### AI Snake Game  
 [GitHub Repo](https://github.com/priyanshugusain2004/miniproject2)  
 Developed an AI agent that learns to play Snake using reinforcement learning principles.
 
-### TBI  
-_HTML_  
-[GitHub Repo](https://github.com/priyanshugusain2004/TBI)  
-Web project for internal use at TBI, Graphic Era (add more details if needed).
+### 
+
 
 ### Additional Projects(Future project)
 - **Chess AI** (Private): Built an AI engine for playing chess (Python).
