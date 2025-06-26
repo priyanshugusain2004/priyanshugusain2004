@@ -21,7 +21,7 @@ Expected Graduation: 2026
 
 ## SKILLS
 
-- Programming: TypeScript, Python, C++, JavaScript, HTML
+- Programming: TypeScript, Python, C++, JavaScript, HTML ,Dbms
 - Technologies: Full Stack Web Development, AI/Game Development, Algorithms, Simulation
 - Tools: Git, GitHub, Cisco Packet Tracer, Project Management (GitHub Projects)
 
