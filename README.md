@@ -5,7 +5,7 @@
 📧 **Email:** priyanshgusain1@gmail.com  
 🌐 **Portfolio:** *[Add your portfolio link here]*  
 🔗 **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
-🔗 **LinkedIn:** *[[](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)]*  
+🔗 **LinkedIn:** [[Add your LinkedIn URL here](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)] 
 
 ---
 
