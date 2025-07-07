@@ -5,7 +5,7 @@
 📧 **Email:** priyanshgusain1@gmail.com  
 🌐 **Portfolio:** *[Add your portfolio link here]*  
 🔗 **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
-🔗 **LinkedIn:** [[Add your LinkedIn URL here](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)] 
+🔗 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)] 
 
 ---
 
@@ -90,6 +90,6 @@ I'm **Priyanshu Gusain**, a passionate BCA student at **Graphic Era Deemed Unive
 
 ## 📈 Let's Connect!
 
-- 💼 **LinkedIn:** *[[priyanshu_gusain]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/))]*  
+🔗 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)] 
 - 💻 **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
 - 🌐 **Portfolio:** *[Add Link Here]*  
