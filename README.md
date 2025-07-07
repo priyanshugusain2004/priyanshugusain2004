@@ -1,71 +1,95 @@
-# Priyanshu Gusain
 
-+91-8433067249  |  priyanshgusain1@gmail.com  |  [Portfolio](working on it!)  |  [GitHub](https://github.com/priyanshugusain2004)  |  [LinkedIn](https://www.linkedin.com/feed/)
+# 👨‍💻 Priyanshu Gusain – Full Stack Developer & AI Enthusiast
 
----
-
-## PROFILE
-
-Aspiring Software Engineer and vibe coder with hands-on experience in full stack development, artificial intelligence, and web technologies. Currently pursuing BCA and interning as a Full Stack Developer at the Technology Business Incubator, Graphic Era (Deemed to be University). Passionate about building scalable, real-world solutions and continuously learning new technologies.  
-**Future Goal:** To build and launch my own Virtual Reality (VR) game, blending creativity with cutting-edge technology.
+📞 **Phone:** +91-8433067249  
+📧 **Email:** priyanshgusain1@gmail.com  
+🌐 **Portfolio:** *[Add your portfolio link here]*  
+🔗 **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
+🔗 **LinkedIn:** *[[](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)]*  
 
 ---
 
-## EDUCATION
+## 👤 About Me
 
-**Bachelor of Computer Applications (BCA)**  
-Graphic Era Deemed University  
-Expected Graduation: 2026
+I'm **Priyanshu Gusain**, a passionate BCA student at **Graphic Era Deemed University**, expected to graduate in **2026**. I specialize in **full stack web development**, **Python automation**, and I'm actively exploring **AI/ML** through hands-on projects. With a strong grasp of foundational technologies and a keen interest in building real-world solutions, I strive to combine creativity with logic in every project I undertake.
 
 ---
 
-## SKILLS
+## 🧠 Skills
 
-- Programming: TypeScript, Python, C++, JavaScript, HTML ,Dbms
-- Technologies: Full Stack Web Development, AI/Game Development, Algorithms, Simulation
-- Tools: Git, GitHub, Cisco Packet Tracer, Project Management (GitHub Projects)
-
----
-
-## CERTIFICATIONS
-
-working on it.......................
+- **Languages:** Python, C++, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Node.js, Express.js, Flask, React.js, MongoDB  
+- **Version Control & Deployment:** Git, GitHub  
+- **Other Tools:** Cisco Packet Tracer, GitHub Projects, MS Office  
 
 ---
 
-## EXPERIENCE
+## 📜 Certifications
+
+- **Placement Hackathon 2.0** by **Explorin Academy**  
+  Developed a fully functional **meme-sharing website** in under 1 hour using AI tools (solo project).
+
+---
+
+## 💼 Experience
 
 **Full Stack Development Intern**  
-Technology Business Incubator (TBI), Graphic Era (Deemed to be University)  
-May 2025 – Present  
-- Develop and maintain scalable full stack web applications.
-- Collaborate with a team to deliver technology solutions for startup projects.
-- Gain practical exposure to the software development lifecycle and project management.
+*Technology Business Incubator (TBI), Graphic Era Deemed University*  
+📅 *May 2025 – Present*
+
+- Hands-on training in full-stack web development
+- Working with **HTML, CSS, JavaScript, Node.js, React.js, MongoDB**
+- Learning RESTful API integration, Git version control, deployment methods
+- Collaborating on real-world projects under expert mentorship
 
 ---
 
-## PROJECTS
+## 🚀 Projects
 
-### PBL  
-_TypeScript_  
-[GitHub Repo](https://github.com/priyanshugusain2004/PBL)  
-[LINK TO MY SITE:](https://priyanshugusain2004.github.io/PBL/)
-
-
-### AI Snake Game  
-[GitHub Repo](https://github.com/priyanshugusain2004/miniproject2)  
-Developed an AI agent that learns to play Snake using reinforcement learning principles.
-
-### 
-
-
-### Additional Projects(Future project)
-- **Chess AI** (Private): Built an AI engine for playing chess (Python).
-- **Pattern Generation** (C++): Developed algorithms for advanced pattern generation.
-- **Simulator** (JavaScript): Simulation project (add details if you wish).
+### 🟡 Smart Light System using Hand Gestures & Presence Detection  
+🔗 [GitHub Repo](https://github.com/priyanshugusain2004/Smart_Light_System)  
+- Built with **Python**, **MediaPipe**, **OpenCV**, and **Tkinter**
+- Detects human presence and hand gestures to control bulb brightness
+- Includes a real-time GUI to simulate smart bulb behavior
 
 ---
 
-## ACHIEVEMENTS
+### 🔵 Process Scheduling Simulator (Deployed)  
+🔗 [GitHub Repo](https://github.com/priyanshugusain2004/PBL)  
+🔗 [Live Site](https://priyanshugusain2004.github.io/PBL/)  
+- Visualizes multiple CPU scheduling algorithms: FCFS, SJF, Priority, Round Robin  
+- Created to help students understand process scheduling concepts interactively
 
-...........................
+---
+
+### 🟢 AI Snake Game using Reinforcement Learning  
+🔗 [GitHub Repo](https://github.com/priyanshugusain2004/miniproject2)  
+- Trained an AI agent to play Snake using **Deep Q-Learning**
+- Built with **Python**, **Pygame**, and **NumPy**
+- Focus on self-learning behavior via rewards and penalties
+
+---
+
+### 🛠️ In Progress
+
+- **MCQ Generator using Gemini API**  
+  > A tool to dynamically generate multiple-choice questions from user input using Google's Gemini API.
+
+- **Event Attendance Tracker Web App**  
+  > A full-stack web app that tracks real-time attendance based on active participation and saves event data.
+
+---
+
+## 📂 Repositories to Explore
+
+- 🔧 [Smart Light System](https://github.com/priyanshugusain2004/Smart_Light_System)
+- 🖥️ [Process Scheduling Simulator](https://github.com/priyanshugusain2004/PBL)
+- 🐍 [AI Snake Game](https://github.com/priyanshugusain2004/miniproject2)
+
+---
+
+## 📈 Let's Connect!
+
+- 💼 **LinkedIn:** *[[priyanshu_gusain]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/))]*  
+- 💻 **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
+- 🌐 **Portfolio:** *[Add Link Here]*  
