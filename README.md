@@ -4,7 +4,7 @@
 
 - **Phone:** +91-8433067249  
 - **Email:** priyanshgusain1@gmail.com  
-- **Portfolio:** [View Portfolio](https://portfolio-lfhs959tm-priyanshus-projects-444353fe.vercel.app/)  
+- **Portfolio:** [View Portfolio](https://portfolio-pi-indol-67.vercel.app/)  
 - **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
 - **LinkedIn:** [linkedin.com/in/priyanshu-gusain-11a39b282](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)
 
@@ -86,4 +86,4 @@ _May 2025 – Present_
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)  
 - [GitHub](https://github.com/priyanshugusain2004)  
-- [Portfolio](https://portfolio-lfhs959tm-priyanshus-projects-444353fe.vercel.app/)
+- [Portfolio](https://portfolio-pi-indol-67.vercel.app/)
