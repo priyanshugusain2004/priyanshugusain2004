@@ -3,8 +3,7 @@
 ## Contact
 
 - **Phone:** +91-8433067249  
-- **Email:** priyanshgusain1@gmail.com  
-- **Portfolio:** [View Portfolio](https://portfolio-pi-indol-67.vercel.app/)  
+- **Email:** priyanshgusain1@gmail.com   
 - **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
 - **LinkedIn:** [linkedin.com/in/priyanshu-gusain-11a39b282](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)
 
