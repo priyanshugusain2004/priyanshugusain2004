@@ -1,8 +1,8 @@
 # priyanshu gusain
 **Full Stack & Mobile Developer | AI-Assisted Development**
-Earth
+| Earth
 
-📞 [Phone] · ✉️ [Email]
+📞 [8433067249] · ✉️ [priyanshgusain1@gmail.com]
 🔗 [GitHub](https://github.com/priyanshugusain2004) · [LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/) · [Portfolio](https://portfolio-pi-indol-67.vercel.app/)
 
 ---
