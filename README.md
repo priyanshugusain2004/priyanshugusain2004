@@ -1,6 +1,6 @@
-# [Your Name]
+# priyanshu gusain
 **Full Stack & Mobile Developer | AI-Assisted Development**
-[City], India
+Earth
 
 📞 [Phone] · ✉️ [Email]
 🔗 [GitHub](https://github.com/priyanshugusain2004) · [LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/) · [Portfolio](https://portfolio-pi-indol-67.vercel.app/)
@@ -35,10 +35,6 @@ MCA student and full-stack developer who designs, builds, and ships web and mobi
 - Build and maintain real-world web applications using the MERN stack.
 - Integrate REST APIs and follow version-control and deployment best practices.
 - Work with team members under professional mentorship.
-
-### Freelance Developer
-**Fiverr** · Ongoing
-- Offer website-building services to clients through a freelance storefront.
 
 ---
 
@@ -81,20 +77,12 @@ MCA student and full-stack developer who designs, builds, and ships web and mobi
 ### Reinforcement Learning Snake Agent
 *Python, Pygame, NumPy* · [GitHub](https://github.com/priyanshugusain2004/miniproject2)
 - Trains an AI agent to play Snake using Deep Q-Learning.
-
-### In Progress
-- **AI MCQ Generator:** generates multiple-choice questions from user input using the Gemini API.
-- **Attendance Tracker:** full-stack web app that logs attendance by participation.
-
 ---
-
-## Certifications & Achievements
-- **Placement Hackathon 2.0, Explorin Academy:** built a working meme-sharing platform solo in under one hour using AI tools.
 
 ---
 
 ## Education
-- **Master of Computer Applications (MCA)**, [University], [Year]
+- **Master of Computer Applications (MCA)**, geu, 2028
 
 ---
 
