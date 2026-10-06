@@ -1,88 +1,102 @@
-# Priyanshu Gusain – Full Stack Developer & AI Enthusiast
+# [Your Name]
+**Full Stack & Mobile Developer | AI-Assisted Development**
+[City], India
 
-## Contact
-
-- **Phone:** +91-8433067249  
-- **Email:** priyanshgusain1@gmail.com   
-- **GitHub:** [github.com/priyanshugusain2004](https://github.com/priyanshugusain2004)  
-- **LinkedIn:** [linkedin.com/in/priyanshu-gusain-11a39b282](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)
+📞 [Phone] · ✉️ [Email]
+🔗 [GitHub](https://github.com/priyanshugusain2004) · [LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/) · [Portfolio](https://portfolio-pi-indol-67.vercel.app/)
 
 ---
 
-## About Me
+## Professional Summary
 
-I'm Priyanshu Gusain, a BCA student at Graphic Era Deemed University (Graduating 2026) with a strong interest in full stack development, Python scripting, and AI/ML applications. I enjoy building practical solutions, automating tasks, and creating interactive, user-friendly web experiences.
-
----
-
-## Skills
-
-- **Languages:** Python, JavaScript, C++, HTML, CSS  
-- **Frameworks & Libraries:** Node.js, Express.js, Flask, React.js  
-- **Databases:** MongoDB  
-- **Tools:** Git, GitHub, Cisco Packet Tracer, MS Office  
-- **Other:** REST API integration, GitHub Projects
+MCA student and full-stack developer who designs, builds, and ships web and mobile applications end to end, from architecture and UI design to backend integration and deployment. Experienced with React Native/Expo, Next.js, TypeScript, and Supabase, with a background in Python, AI/ML, and the MERN stack. I use AI tools and multi-model LLM workflows to speed up development, and I focus on clean code, scalable structure, and polished user experience.
 
 ---
 
-## Certifications
+## Technical Skills
 
-- **Placement Hackathon 2.0** – Explorin Academy  
-  Developed a fully functional meme-sharing platform in under one hour using AI tools (solo project).
+| Area | Technologies |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, C++, HTML, CSS |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Framer Motion |
+| **Mobile** | React Native, Expo, React Query, MMKV |
+| **Backend & APIs** | Node.js, Express.js, Flask, REST APIs, JWT authentication, Axios |
+| **Databases & BaaS** | Supabase, MongoDB |
+| **AI / ML** | Gemini API, OpenCV, MediaPipe, Deep Q-Learning, LLM-assisted development |
+| **Tools** | Git, GitHub, Cisco Packet Tracer, Vercel, MS Office |
+| **Design** | Design token systems, glassmorphism UI, responsive cross-device UI |
 
 ---
 
 ## Experience
 
-### Full Stack Development Intern  
-**Technology Business Incubator (TBI), Graphic Era Deemed University**  
-_May 2025 – Present_
+### Full Stack Development Intern
+**Technology Business Incubator (TBI), Graphic Era Deemed University** · May 2025 – Present
+- Build and maintain real-world web applications using the MERN stack.
+- Integrate REST APIs and follow version-control and deployment best practices.
+- Work with team members under professional mentorship.
 
-- Working on real-world web applications using MERN stack technologies.
-- Learning REST API integration, version control, and deployment best practices.
-- Collaborating with team members under professional mentorship.
+### Freelance Developer
+**Fiverr** · Ongoing
+- Offer website-building services to clients through a freelance storefront.
 
 ---
 
 ## Projects
 
-### Smart Light System using Hand Gestures  
-[GitHub Repo](https://github.com/priyanshugusain2004/Smart_Light_System)  
-- Built with Python, OpenCV, MediaPipe, and Tkinter.
+### Premium Membership Mobile App
+*React Native, Expo, Supabase, React Query, Axios/JWT, MMKV*
+- Built a cross-platform membership app with a dark, glassmorphic UI.
+- Created a full design-token system (colors, typography) and reusable components: animated buttons, glass cards, text fields, progress rings.
+- Implemented a service layer with JWT authentication, React Query caching, and secure token storage, plus mock-first repositories for each app domain.
+- Designed for regional localization (currency, taxes, multi-language, privacy compliance), a pass system, and an admin/staff panel.
+
+### Hyperlocal Marketplace App
+- Marketplace app connecting local buyers and sellers.
+- Short-video vertical feed for product discovery.
+- AI-assisted seller listings to make posting products faster.
+
+### Consumption Tracking Dashboard
+- Building a dashboard where customers can view their monthly usage totals.
+- Worked on connecting to on-site hardware controllers over a local network.
+
+### Kids' Digital Coloring App *(in development)*
+- Cross-platform (Android/iOS) app with age-based predefined drawings.
+- Photo-to-outline feature: photograph any object and color it in.
+- Optimized to run smoothly on low-end phones and tablets.
+
+### Personal Portfolio Website
+*Next.js, TypeScript, Tailwind CSS, Framer Motion* · [Live Site](https://portfolio-pi-indol-67.vercel.app/)
+- Animated portfolio with a terminal-style hero section.
+- JSON-backed data store and a password-protected admin dashboard for content management.
+
+### Gesture-Controlled Smart Light System
+*Python, OpenCV, MediaPipe, Tkinter* · [GitHub](https://github.com/priyanshugusain2004/Smart_Light_System)
 - Detects presence and hand gestures to control a simulated smart bulb interface.
 
-### Process Scheduling Visualizer  
-[GitHub Repo](https://github.com/priyanshugusain2004/PBL) | [Live Demo](https://priyanshugusain2004.github.io/PBL/)  
-- Visualizes CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin).
-- Helps students interactively understand process scheduling behavior.
+### CPU Scheduling Visualizer
+[GitHub](https://github.com/priyanshugusain2004/PBL) · [Live Demo](https://priyanshugusain2004.github.io/PBL/)
+- Interactive visualization of FCFS, SJF, Priority, and Round Robin scheduling.
 
-### AI Snake Game using Deep Q-Learning  
-[GitHub Repo](https://github.com/priyanshugusain2004/miniproject2)  
-- Built with Python, Pygame, and NumPy.
-- Trains an AI agent to play Snake using reinforcement learning principles.
+### Reinforcement Learning Snake Agent
+*Python, Pygame, NumPy* · [GitHub](https://github.com/priyanshugusain2004/miniproject2)
+- Trains an AI agent to play Snake using Deep Q-Learning.
 
----
-
-## Ongoing Projects
-
-- **MCQ Generator using Gemini API:**  
-  Auto-generates multiple-choice questions from user input using Google's Gemini AI API.
-
-- **Event Attendance Tracker Web App:**  
-  A full-stack platform to track and log attendance based on user participation.
+### In Progress
+- **AI MCQ Generator:** generates multiple-choice questions from user input using the Gemini API.
+- **Attendance Tracker:** full-stack web app that logs attendance by participation.
 
 ---
 
-## Repositories to Explore
+## Certifications & Achievements
+- **Placement Hackathon 2.0, Explorin Academy:** built a working meme-sharing platform solo in under one hour using AI tools.
 
-- [Smart Light System](https://github.com/priyanshugusain2004/Smart_Light_System)  
-- [Process Scheduling Simulator](https://github.com/priyanshugusain2004/PBL)  
-- [AI Snake Game](https://github.com/priyanshugusain2004/miniproject2)  
+---
+
+## Education
+- **Master of Computer Applications (MCA)**, [University], [Year]
 
 ---
 
 ## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/)  
-- [GitHub](https://github.com/priyanshugusain2004)  
-- [Portfolio](https://portfolio-pi-indol-67.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/priyanshu-gusain-11a39b282/) · [GitHub](https://github.com/priyanshugusain2004) · [Portfolio](https://portfolio-pi-indol-67.vercel.app/)
